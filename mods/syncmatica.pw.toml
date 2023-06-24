@@ -1,0 +1,13 @@
+name = "Syncmatica"
+filename = "syncmatica-1.20.1-0.3.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bfneejKo/versions/F75W7HML/syncmatica-1.20.1-0.3.9.jar"
+hash-format = "sha1"
+hash = "9561946b30019b91a82bc49623f7a1bd6e59a1b2"
+
+[update]
+[update.modrinth]
+mod-id = "bfneejKo"
+version = "F75W7HML"

@@ -1,0 +1,16 @@
+name = "Prosperity Client"
+author = "CarbonGhost"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4d56d11c803bc58b516a347a4fc3e0f8647f5aac58cdde2a2035449a6d799692"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20.0", "1.20.1"]
